@@ -33,14 +33,6 @@ Switch(config-line)# exit
 Switch(config)# banner motd # UNAUTHORIZED ACCESS PROHIBITED #
 
 
-
-
-Gemini said
-Here is the complete, perfectly formatted Master README file. I have fixed the formatting for Phase 2 and Phase 3 so that all the code blocks and bullet points will render beautifully on GitHub.
-
-Copy everything inside the box below:
-
-Markdown
 # Cisco Networking Portfolio: Multi-Layer Enterprise Architecture
 
 ## 📌 Project Overview
@@ -74,6 +66,8 @@ Switch(config-line)# exit
 
 ! Setting MOTD Banner
 Switch(config)# banner motd # UNAUTHORIZED ACCESS PROHIBITED #
+
+
 📂 Phase 2: VLAN Segmentation (IT & Sales)
 Goal: Logically isolate departments to improve security, prevent lateral movement, and reduce broadcast traffic.
 
